@@ -21,6 +21,9 @@ module tt_um_bkeppner (
   assign uio_out = 0;
   assign uio_oe  = 0;
 
+  // uio_0 : scl
+  // uio_1 : sda
+
   // List all unused inputs to prevent warnings
   wire _unused = &{ena, clk, rst_n, 1'b0};
 

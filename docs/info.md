@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a test setup for the verilog toolflow.
+This is a test setup for the verilog toolflow. The projects goal is to contain an I2C slave, controlling some internal logic.
 
 ## How to test
 
-Explain how to use your project
+Connect I2C master 
 
 ## External hardware
 
